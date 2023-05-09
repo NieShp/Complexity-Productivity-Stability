@@ -1,7 +1,7 @@
 # Complexity-Productivity-Stability
 Dataset of empirical food webs and Matlab code in the paper "Will a large complex system be productive?" (published in Ecology Letters).
 
-This ZIP file have two subfolders. 
+This ZIP file has two subfolders. 
 
 ## Description of the data and file structure: 
 

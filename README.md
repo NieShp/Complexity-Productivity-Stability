@@ -5,7 +5,7 @@ This ZIP file have two subploder.
 
 ## Description of the data and file structure: 
 
-In the folder "empirical_data", 3 files are list:
+### In the folder "empirical_data", 3 files are list:
 
 empirical_data.xlsx: This file contains the detailed information and data of the 149 empirical food webs presented in our publication. For each food web, the species richness, connectance, interaction strength within and across different trophic groups (i.e., plant, herbivore and carnivore) are shown. Dimensions of this file is 150 rows by 20 columns. The descriptions of column are provided in the file "Read me for empirical_data details.txt".
 
@@ -74,11 +74,8 @@ In the file “Overview_of_149_food_webs.xlsx”:
 
   reference:			The original reference that proposed the food web;
 
-## Other information
 
-The dataset of empirical food webs is also available from EcoBase: http://ecobase.ecopath.org/. See the methods in our paper. 
-
-In the folder "simulated_MATLAB_code", 11 files are list:
+### In the folder "simulated_MATLAB_code", 11 files are list:
 
 main.m: This file is the main MATALB code for food web simulation, the recorded results (e.g., food web complexity and functioning) are saved and their meanings are provided in the file "Read me for simulated_data in code.txt".
 
@@ -148,6 +145,9 @@ In MATLAB code (allometric scaling, eqn (3), Table S1 and Appendix S2 can be see
 
 The other 9 file: the defined function included in the file "main.m".
 
+
+## Other information
+The dataset of empirical food webs is also available from EcoBase: http://ecobase.ecopath.org/. See the methods in our paper. 
 
 ## Code/Software
 The file “main.m” can simulated food webs dynamics (details see our study), and the other files are the defined functions included in the file “main.m”. 
